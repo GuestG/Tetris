@@ -6,3 +6,6 @@ Controls for game.<br/>
 ~ "d" and right arrow: move block right.<br/>
 ~ Spacebar: drops the piece all the way down.<br/>
 ~ P: to pause the game.<br/>
+
+Scoring for game.<br/>
+~ Scoring is based off of how long you can last without losing the game, 10 points for every second you survive.<br/>
